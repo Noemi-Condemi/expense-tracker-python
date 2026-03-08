@@ -258,7 +258,7 @@ def main():
 
     while True:
         display_menu()
-        choice = input("\n Enter your choice (1 - 9) " )
+        choice = input("\n Enter your choice (1 - 9) ").strip()
 
         if choice =="1":
             add_income()
@@ -280,7 +280,7 @@ def main():
             print("Thank you for using our system.")
             break
         else:
-            print("Invalide choice. Please enter a number from 1 to 9.")
+            print("Invalid choice. Please enter a number from 1 to 9.")
             
 
 main()
