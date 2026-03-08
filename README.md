@@ -6,6 +6,14 @@ The Personal Finance Tracker is a Python-based command-line application designed
 
 The system allows users to record transactions, track budgets, and analyze financial summaries using simple menu navigation.
 
+🎯 Project Purpose
+This project was developed to demonstrate Python programming fundamentals, file handling, and structured program design as part of software development learning.
+
+Key Learning:
+- File-based data storage
+- Input validation
+- Menu-driven application logic
+
 ## 🛠 Technologies Used
 
 * Python 3
